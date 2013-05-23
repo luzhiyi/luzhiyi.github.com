@@ -1,0 +1,8 @@
+---
+layout: post
+title: "ok this is.."
+description: ""
+category: 
+tags: []
+---
+{% include JB/setup %}
